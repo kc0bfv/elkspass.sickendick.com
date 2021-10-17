@@ -1,9 +1,13 @@
 baseURL: "https://elkspass.sickendick.com/"
 languageCode: "en-us"
-defaultContentLanguage: "en"
 title: "Elks Pass Sickendick Home"
 theme: hugo-geekdoc
 #googleAnalytics:
+
+pygmentsUseClasses: true
+pygmentsCodeFences: true
+disablePathToLower: true 
+enableGitInfo: true
 
 taxonomies:
   tag: tags
