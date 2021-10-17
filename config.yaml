@@ -1,0 +1,16 @@
+baseURL: "https://elkspass.sickendick.com/"
+languageCode: "en-us"
+defaultContentLanguage: "en"
+title: "Elks Pass Sickendick Home"
+theme: hugo-geekdoc
+#googleAnalytics:
+
+taxonomies:
+  tag: tags
+
+params:
+  description: "A reference wiki for the Sickendick Elks Pass home"
+  geekdocLogo: "home.svg"
+  geekdocRepo: "https://github.com/kc0bfv/elkspass.sickendick.com"
+  geekdocEditPath: "edit/main/content"
+  geekdocListUseTOC: true
