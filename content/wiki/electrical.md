@@ -6,6 +6,7 @@ draft: false
 
 # Breaker Notes
 
+* 1 - Light switch and alarm system near fireplace, so also the outlets next to the big living room windows
 * 2 - Back porch lights, back porch fans, doorbell (I think)
 * 7 - All bathrooms, downstairs sconces, TV wall left side plug, front porch plug
 * 9 - Back porch (sun room side) flood lights (maybe other sun room stuff), back porch (sun room side) outdoor outlet
